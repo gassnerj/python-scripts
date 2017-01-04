@@ -4,7 +4,7 @@ __author__ = ['[Brandon Amos](http://bamos.github.io)']
 __date__ = '2014.11.7'
 
 """
-Count work frequencies within a file.
+Count word frequencies within a file.
 
 ```
 $ word-counter.py shakespeare.md --numWords 4 --maxTuples 3
